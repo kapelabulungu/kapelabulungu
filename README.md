@@ -1,6 +1,7 @@
-- Hi There 👋, My Name Is Paul Kapelabulungu
+## Hi There 👋
+
+My Name Is Paul Kapelabulungu am a recent graduate interested in Networking, Cyber security, Python and Linux OS!
   
-- 👀 I’m interested in Networking, Cyber security, Pythong and Linux OS
 - 🌱 I’m currently working on my Python Skills
 
 
